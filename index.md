@@ -1,7 +1,1 @@
-# 
-## 
-### 
-#### 
-##### 
-###### 
-Meaning Message
+# Meaning Message
